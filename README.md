@@ -3,7 +3,7 @@
 Website presentation of Tetris' project developped for the Afterwork4 of the Passarelle Numérique at École Centrale de Marseille, France. 
 
 ## Game
-** Build with 
+Build with 
 * [HTML & CSS](https://www.w3.org/standards/webdesign/htmlcss.html) 
 * [Bootstrap4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) 
 * [Javascript](https://www.javascript.com/) 
@@ -13,7 +13,7 @@ Website presentation of Tetris' project developped for the Afterwork4 of the Pas
 * [Socket.io](https://socket.io/) 
 
 ## Website
-** Build with
+Build with
 * [HTML & CSS](https://www.w3.org/standards/webdesign/htmlcss.html) 
 * [Bootstrap4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 * Adaptation of the theme [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
